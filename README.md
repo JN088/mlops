@@ -1,3 +1,1 @@
-# mlops
-Great Learning Azure Program
-test content
+# autompg-azure-mlops-main
